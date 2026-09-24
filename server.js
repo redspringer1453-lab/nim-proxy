@@ -36,7 +36,7 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'google/diffusiongemma-26b-a4b-it',
   'claude-3-sonnet': 'meta/muse-glimmer-30b',
   'gemini-pro': 'z-ai/glm-5.3-flash',
-  'deepseek': 'deepseek-ai/deepseek-v4-flash-0731'
+  'deepseek': 'deepseek-ai/deepseek-v4.1-flash'
 };
 
 // Root endpoint
